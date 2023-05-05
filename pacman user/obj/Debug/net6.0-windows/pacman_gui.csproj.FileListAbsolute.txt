@@ -1,0 +1,36 @@
+D:\study 3rd t2\Ai\pacman_gui\pacman_gui\bin\Debug\net6.0-windows\pacman_gui.exe
+D:\study 3rd t2\Ai\pacman_gui\pacman_gui\bin\Debug\net6.0-windows\pacman_gui.deps.json
+D:\study 3rd t2\Ai\pacman_gui\pacman_gui\bin\Debug\net6.0-windows\pacman_gui.runtimeconfig.json
+D:\study 3rd t2\Ai\pacman_gui\pacman_gui\bin\Debug\net6.0-windows\pacman_gui.dll
+D:\study 3rd t2\Ai\pacman_gui\pacman_gui\bin\Debug\net6.0-windows\pacman_gui.pdb
+D:\study 3rd t2\Ai\pacman_gui\pacman_gui\obj\Debug\net6.0-windows\pacman_gui.csproj.AssemblyReference.cache
+D:\study 3rd t2\Ai\pacman_gui\pacman_gui\obj\Debug\net6.0-windows\pacman_gui.Form1.resources
+D:\study 3rd t2\Ai\pacman_gui\pacman_gui\obj\Debug\net6.0-windows\pacman_gui.Properties.Resources.resources
+D:\study 3rd t2\Ai\pacman_gui\pacman_gui\obj\Debug\net6.0-windows\pacman_gui.csproj.GenerateResource.cache
+D:\study 3rd t2\Ai\pacman_gui\pacman_gui\obj\Debug\net6.0-windows\pacman_gui.GeneratedMSBuildEditorConfig.editorconfig
+D:\study 3rd t2\Ai\pacman_gui\pacman_gui\obj\Debug\net6.0-windows\pacman_gui.AssemblyInfoInputs.cache
+D:\study 3rd t2\Ai\pacman_gui\pacman_gui\obj\Debug\net6.0-windows\pacman_gui.AssemblyInfo.cs
+D:\study 3rd t2\Ai\pacman_gui\pacman_gui\obj\Debug\net6.0-windows\pacman_gui.csproj.CoreCompileInputs.cache
+D:\study 3rd t2\Ai\pacman_gui\pacman_gui\obj\Debug\net6.0-windows\pacman_gui.dll
+D:\study 3rd t2\Ai\pacman_gui\pacman_gui\obj\Debug\net6.0-windows\refint\pacman_gui.dll
+D:\study 3rd t2\Ai\pacman_gui\pacman_gui\obj\Debug\net6.0-windows\pacman_gui.pdb
+D:\study 3rd t2\Ai\pacman_gui\pacman_gui\obj\Debug\net6.0-windows\pacman_gui.genruntimeconfig.cache
+D:\study 3rd t2\Ai\pacman_gui\pacman_gui\obj\Debug\net6.0-windows\ref\pacman_gui.dll
+D:\study 3rd t2\Ai\pacman_gui\pacman user\bin\Debug\net6.0-windows\pacman_gui.exe
+D:\study 3rd t2\Ai\pacman_gui\pacman user\bin\Debug\net6.0-windows\pacman_gui.deps.json
+D:\study 3rd t2\Ai\pacman_gui\pacman user\bin\Debug\net6.0-windows\pacman_gui.runtimeconfig.json
+D:\study 3rd t2\Ai\pacman_gui\pacman user\bin\Debug\net6.0-windows\pacman_gui.dll
+D:\study 3rd t2\Ai\pacman_gui\pacman user\bin\Debug\net6.0-windows\pacman_gui.pdb
+D:\study 3rd t2\Ai\pacman_gui\pacman user\obj\Debug\net6.0-windows\pacman_gui.csproj.AssemblyReference.cache
+D:\study 3rd t2\Ai\pacman_gui\pacman user\obj\Debug\net6.0-windows\pacman_gui.Form1.resources
+D:\study 3rd t2\Ai\pacman_gui\pacman user\obj\Debug\net6.0-windows\pacman_gui.Properties.Resources.resources
+D:\study 3rd t2\Ai\pacman_gui\pacman user\obj\Debug\net6.0-windows\pacman_gui.csproj.GenerateResource.cache
+D:\study 3rd t2\Ai\pacman_gui\pacman user\obj\Debug\net6.0-windows\pacman_gui.GeneratedMSBuildEditorConfig.editorconfig
+D:\study 3rd t2\Ai\pacman_gui\pacman user\obj\Debug\net6.0-windows\pacman_gui.AssemblyInfoInputs.cache
+D:\study 3rd t2\Ai\pacman_gui\pacman user\obj\Debug\net6.0-windows\pacman_gui.AssemblyInfo.cs
+D:\study 3rd t2\Ai\pacman_gui\pacman user\obj\Debug\net6.0-windows\pacman_gui.csproj.CoreCompileInputs.cache
+D:\study 3rd t2\Ai\pacman_gui\pacman user\obj\Debug\net6.0-windows\pacman_gui.dll
+D:\study 3rd t2\Ai\pacman_gui\pacman user\obj\Debug\net6.0-windows\refint\pacman_gui.dll
+D:\study 3rd t2\Ai\pacman_gui\pacman user\obj\Debug\net6.0-windows\pacman_gui.pdb
+D:\study 3rd t2\Ai\pacman_gui\pacman user\obj\Debug\net6.0-windows\pacman_gui.genruntimeconfig.cache
+D:\study 3rd t2\Ai\pacman_gui\pacman user\obj\Debug\net6.0-windows\ref\pacman_gui.dll

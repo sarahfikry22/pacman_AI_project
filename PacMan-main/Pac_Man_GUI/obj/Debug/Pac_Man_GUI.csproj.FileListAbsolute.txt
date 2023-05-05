@@ -1,0 +1,10 @@
+C:\Eng\Tasks_CS_3\Pac_Man_GUI\Pac_Man_GUI\bin\Debug\Pac_Man_GUI.exe.config
+C:\Eng\Tasks_CS_3\Pac_Man_GUI\Pac_Man_GUI\bin\Debug\Pac_Man_GUI.exe
+C:\Eng\Tasks_CS_3\Pac_Man_GUI\Pac_Man_GUI\bin\Debug\Pac_Man_GUI.pdb
+C:\Eng\Tasks_CS_3\Pac_Man_GUI\Pac_Man_GUI\obj\Debug\Pac_Man_GUI.csprojAssemblyReference.cache
+C:\Eng\Tasks_CS_3\Pac_Man_GUI\Pac_Man_GUI\obj\Debug\Pac_Man_GUI.Form1.resources
+C:\Eng\Tasks_CS_3\Pac_Man_GUI\Pac_Man_GUI\obj\Debug\Pac_Man_GUI.Properties.Resources.resources
+C:\Eng\Tasks_CS_3\Pac_Man_GUI\Pac_Man_GUI\obj\Debug\Pac_Man_GUI.csproj.GenerateResource.cache
+C:\Eng\Tasks_CS_3\Pac_Man_GUI\Pac_Man_GUI\obj\Debug\Pac_Man_GUI.csproj.CoreCompileInputs.cache
+C:\Eng\Tasks_CS_3\Pac_Man_GUI\Pac_Man_GUI\obj\Debug\Pac_Man_GUI.exe
+C:\Eng\Tasks_CS_3\Pac_Man_GUI\Pac_Man_GUI\obj\Debug\Pac_Man_GUI.pdb
